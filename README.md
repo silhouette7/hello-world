@@ -1,2 +1,5 @@
 # hello-world
-Just a start
+
+Hello world!
+
+I am Deric, and I am going to shake the world!
